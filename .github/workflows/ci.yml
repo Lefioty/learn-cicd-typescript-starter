@@ -27,7 +27,7 @@ jobs:
       - name: style
         run: npm run format:check
 
- Style:
+  style:
     name: Style
     runs-on: ubuntu-latest
     steps:
